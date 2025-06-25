@@ -6,8 +6,8 @@ This file outlines the implementation steps based on PRD.md. Tasks are grouped b
 
 ## Project Setup
 
-- [ ] Initialize Django project (`django-admin startproject`)
-- [ ] Create core app (e.g., `app`, `main`, or `conversation`)
+- [x] Initialize Django project (`django-admin startproject`)
+- [x] Create core app (e.g., `app`, `main`, or `conversation`)
 - [ ] Setup PostgreSQL and connect via `settings.py`
 - [ ] Install and configure Tailwind CSS with Django
 - [ ] Add Flowbite and verify UI components work
