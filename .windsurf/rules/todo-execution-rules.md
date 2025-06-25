@@ -1,5 +1,6 @@
 ---
-trigger: manual
+trigger: model_decision
+description: Always activate when TODO.md is in focus
 ---
 
 - Always work on one task at a time from TODO.md
