@@ -11,7 +11,7 @@ This file outlines the implementation steps based on PRD.md. Tasks are grouped b
 - [x] Setup PostgreSQL and connect via `settings.py`
 - [x] Install and configure Tailwind CSS with Django
 - [x] Add Flowbite and verify UI components work
-- [ ] Create base template with navigation bar and layout blocks
+- [x] Create base template with navigation bar and layout blocks
 
 ---
 
